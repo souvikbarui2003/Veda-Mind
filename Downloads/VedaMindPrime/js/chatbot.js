@@ -1,0 +1,1 @@
+// Chatbot logic: handle input, call Gemini API, show response
